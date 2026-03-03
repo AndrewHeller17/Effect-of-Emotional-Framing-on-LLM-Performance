@@ -1,0 +1,4 @@
+condition,n,correct_sum,accuracy
+control,200,183,0.915
+high,200,183,0.915
+low,200,182,0.91
