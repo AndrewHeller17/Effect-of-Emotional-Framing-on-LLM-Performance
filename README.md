@@ -4,6 +4,8 @@ Andrew Heller, Francesco Severino, Aarav Chandrasekar — Dartmouth College, CS 
 
 Does adding emotional or high-stakes language to a prompt improve LLM accuracy on factual questions? This project tests that assumption empirically across multiple prompt styles and dataset difficulties.
 
+See [poster.pdf](poster.pdf) for the full project summary.
+
 ## Background
 
 Many users believe that framing prompts with praise, threats, or high-stakes language can motivate an LLM to perform better. A 2023 Microsoft Research study suggested emotional stimuli in prompts enhance output quality. This study takes a more objective approach, measuring accuracy directly on multiple choice benchmarks rather than relying on subjective output quality.
